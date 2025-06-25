@@ -1,4 +1,3 @@
-```markdown
 # 🎬 AI-Powered Video Thumbnail Generator
 
 This project automatically generates eye-catching thumbnails for videos using AI-driven techniques like object detection, face detection, scene classification, and keyframe extraction.
